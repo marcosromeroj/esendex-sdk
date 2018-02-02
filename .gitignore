@@ -1,0 +1,7 @@
+.idea/
+
+/vendor/
+/build/
+package.xml
+*.tgz
+composer.phar
